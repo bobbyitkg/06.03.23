@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+div a {
+  margin: 0 3px;
+}
+div img:hover {
+  transform: scale(1.1);
+  box-shadow:  0 0 10px 0 rgba(0,0,0,0.5);
+}
